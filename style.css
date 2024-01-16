@@ -1,10 +1,3 @@
-/* Ensures that height of all html and body elements is 100% */
-html, body {
-  height: 100%;
-  margin: 0;
-  padding: 0;
-}
-
 h1 {
   color: yellow;
   font-size: 72px;
@@ -16,7 +9,7 @@ body {
   background-image: url("https://www.zeldadungeon.net/wp-content/uploads/2013/05/The-Legend-of-Zelda-The-Ocarina-of-Time.jpg");
   background-repeat: no-repeat;
   background-position: center;
-  background-size: 100% 100%;
+  background-size: cover;
 }
 
 p {
@@ -24,4 +17,5 @@ p {
   color: seashell;
   font-size: 20px;
   font-family: cursive;
+  padding: 10px;
 }
