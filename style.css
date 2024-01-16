@@ -1,0 +1,20 @@
+h1 {
+  color: yellow;
+  font-size: 72px;
+  text-align: center;
+  font-family: arial;
+}
+
+body {
+  background-image: url("https://www.zeldadungeon.net/wp-content/uploads/2013/05/The-Legend-of-Zelda-The-Ocarina-of-Time.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100%;
+}
+
+p {
+  background-color: forestgreen;
+  color: seashell;
+  font-size: 20px;
+  font-family: cursive;
+}
